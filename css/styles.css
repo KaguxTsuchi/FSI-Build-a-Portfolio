@@ -4,3 +4,10 @@ body {
 h1 {
     color: rgb(204, 15, 110);
 }
+img { 
+    border: 2px rgb(115, 61, 61);
+    border-style: ridge;
+    border-radius: 50px;
+    width: 250px;
+    height:400px;
+}
